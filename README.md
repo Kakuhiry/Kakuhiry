@@ -1,8 +1,5 @@
-Hi 👋 My name is Gilbert Batista!
- <br>=================================
- <br>
- <br>Site Reliability Engineer
- <br>-------------------------  
+# Hi 👋 My name is Gilbert Batista!
+## Site Reliability Engineer
 I'm a passionate developer with a handful of skills that go way beyond coding, such as a great ability to speak my mind, extremely proactive, a good eye for growth and improvement as well as addicted to problem solving (~˘▾˘)~.
 
 <br>♪~ ᕕ(ᐛ)ᕗ ♪~ ᕕ(ᐛ)ᕗ
