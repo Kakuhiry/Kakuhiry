@@ -11,8 +11,3 @@ I'm a passionate developer with a handful of valuable capabilities such as a gre
 * 🧠  I'm currently learning SRE and Devops culture
 * 🤝  I'm open to collaborating on stuff (☞ﾟヮﾟ)☞ ☜(ﾟヮﾟ☜) 
 * ⚡  A little clumsy, but very hard working ᕦ(ò\_óˇ)ᕤ
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/kakuhiry"><img src="https://github-readme-stats.vercel.app/api?username=kakuhiry&show_icons=true&hide=stars,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kakuhiry's GitHub stats" /></a>
-<br><a href="https://github.com/kakuhiry" align="left"></a>
